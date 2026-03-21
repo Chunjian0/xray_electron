@@ -13,7 +13,7 @@
   </table>
   <br>
   <h4>Settings Page</h4>
-<img src="https://github.com/user-attachments/assets/4951fc99-058f-46af-858b-991bc3510f4d" alt="Settings Page" width="700">
+<img src="https://github.com/user-attachments/assets/4951fc99-058f-46af-858b-991bc3510f4d" alt="Settings Page" width="705">
 </div>
 
 
